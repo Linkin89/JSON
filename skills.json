@@ -2,8 +2,8 @@
  "Skills leaning in Vadim Ksendzov's course":[
    "Commad line in Linux Terminal. Actions copied, create, viewing, moving files on servers without  graphic interface",
    "Bash script bases, automation actions on server",
-   "SQL actions (Create, Delete, Drop, Insert Into, Select, From, Where, Join,)"
-   "DB Postgres (install, setting and usage"
+   "SQL actions (Create, Delete, Drop, Insert Into, Select, From, Where, Join)",
+   "DB Postgres (install, setting and usage)",
    "Not-Relational DB Redis (install, setting and usage)",
    "Нагрузочное тестирование в Jmeter",
    "Python (Изучение основ. Создание клиент серверного приложения)",
